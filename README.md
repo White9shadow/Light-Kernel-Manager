@@ -11,7 +11,7 @@ Before you begin the installation process, ensure that your system meets the nec
 
 `apt install ./LKM-kernel.deb`
 
-
+ 
 UNINSTALL
    - Command: `apt remove lkm-kernel`
 
